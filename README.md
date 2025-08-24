@@ -43,7 +43,5 @@ The goal is to compare the performance of classical ML models with deep learning
 - LSTM demonstrates improved performance by capturing contextual word relationships.  
 - Comparative results highlight the trade-offs between traditional ML and DL methods.  
 
----
 
-## 📂 Project Structure
 
